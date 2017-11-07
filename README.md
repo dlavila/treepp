@@ -11,7 +11,6 @@ The output takes a graphical form which will resemble the following example:
 ```
 .
 ├── config.xml
-├── config.xml
 ├── data
 │   ├── data1.bin
 │   ├── data2.sql
@@ -24,7 +23,7 @@ The output takes a graphical form which will resemble the following example:
 ├── lib1.so
 └── lib2.dll
 
-2 directories, 11 files
+2 directories, 10 files
 ```
 
 By default folders and files are sorted in alphabetical order as depicted in the previous example.
@@ -41,4 +40,4 @@ The program should handle the following options (one at the time):
 
 You are free to use any C++17/14 feature or open source library(1). The solution should be limited to one source file. To encourage discussion and learning all the solutions are going to be made public after announcing the winner(s).
 
-(1) The library should be portable or quasi-portable (complies with the standard but is limited by some compilers, think hanna), some ideas: ranges v3, gsl, absl.
+(1) The library should be portable or quasi-portable (complies with the standard but is limited by some compilers, think hana), some ideas: ranges v3, gsl, absl.
