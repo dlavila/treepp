@@ -47,7 +47,7 @@ Your implementation of `tree` should understands the following command line swit
 
 You are free to use any C++17/14 feature, and open source library from this [list]. The solution should be limited to one source file and must include the command to compile (no make/ninja/etc files) in a comment. 
 
-To submit your solution send us an [mailto](email:dlavila@uc.cl) with a link to a place where we can find your code (we recommend using something like [Wandbox], [Coliru] or doing a pull request direclty to the challenge repo). Anyone can participate but for strategic reasons winners will be selected among MeetingCpp attenders.
+To submit your solution send us an [email](mailto:dlavila@uc.cl) with a link to a place where we can find your code (we recommend using something like [Wandbox], [Coliru] or doing a pull request direclty to the challenge repo). Anyone can participate but for strategic reasons winners will be selected among MeetingCpp attenders.
 
 To encourage discussion and learning all the solutions are going to be made public after announcing the winner(s). 
 
