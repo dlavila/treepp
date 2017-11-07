@@ -27,7 +27,7 @@ The output takes a graphical form which will resemble the following example:
 2 directories, 10 files
 ```
 
-By default folders are files are sorted in alphabetical order as depicted in the previous example.
+By default folders and files are sorted in alphabetical order as depicted in the previous example.
 For simplicity you can assume only folders and files in the path.
 
 The program should handle the following options (one at the time):
