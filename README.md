@@ -24,7 +24,7 @@ The output takes a graphical form which will resemble the following example:
 ├── lib1.so
 └── lib2.dll
 
-2 directories, 10 files
+2 directories, 11 files
 ```
 
 By default folders and files are sorted in alphabetical order as depicted in the previous example.
