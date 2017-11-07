@@ -32,10 +32,12 @@ For simplicity you can assume only folders and files in the path.
 
 The program should handle the following options (one at the time):
 
+```
 -d: List directories only.
 -t: Sort the output by last modification time.
 --dirsfirst: List directories before files.
 -L level: Max display depth of the directory tree.
+```
 
 You are free to use any C++17/14 feature or open source library(1). The solution should be limited to one source file. To encourage discussion and learning all the solutions are going to be made public after announcing the winner(s).
 
