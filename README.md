@@ -7,6 +7,8 @@ Tree is a recursive directory listing program that produces a depth indented lis
 Upon completion of listing all files/directories found, tree returns the total number of files and/or directories listed.
 
 The output takes a graphical form which will resemble the following example:
+
+```
 .
 ├── config.xml
 ├── config.xml
@@ -23,6 +25,7 @@ The output takes a graphical form which will resemble the following example:
 └── lib2.dll
 
 2 directories, 10 files
+```
 
 By default folders are files are sorted in alphabetical order as depicted in the previous example.
 For simplicity you can assume only folders and files in the path.
