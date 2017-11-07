@@ -2,11 +2,11 @@
 Modern C++ Challenge:
 ======
 
-The purpose of this challenge is to write a small application to demonstrate the usage of Modern C++ features and libraries. What better to learn some of the concepts presented in the talks at MeetingCpp than solving a real problem? 
+The purpose of this challenge is to write a small application to demonstrate the usage of Modern C++ features and libraries. What better to learn some of the concepts presented at [MeetingCpp] than solving a real problem? 
 
-The challange is to write a simple and portable version of the linux command line tool [tree]:
+The challange is to write a simple and portable version of the Linux command line tool [tree]:
 
-`tree`
+tree
 ------
 
 `tree` is a recursive directory listing program that produces a depth indented listing of files. With no arguments, `tree` lists the files in the current directory. When a directory argument is given, `tree` lists all the files and/or directories found in the given directory.
@@ -36,7 +36,7 @@ The output takes a graphical form which will resemble the following example:
 By default folders and files are sorted in alphabetical order as shown in the example.
 For simplicity you can assume only folders and files in the path.
 
-The program should handle the following options (one at the time):
+Your implementation of `tree` should understands the following command line switches (one at the time):
 
 ```
 -d: List directories only.
@@ -45,8 +45,13 @@ The program should handle the following options (one at the time):
 -L level: Max display depth of the directory tree.
 ```
 
-You are free to use any C++17/14 feature, and open source library from this [list]. The solution should be limited to one source file and must include the command to compile (no make/ninja/etc files). To submit your solution send us an [mailto](mailto:dlavila@uc.cl) with a link to a place where we can find your code (we recommend using something like [Wandbox], [Coliru] or doing a pull request direclty to the challenge repo). To encourage discussion and learning all the solutions are going to be made public after announcing the winner(s).
+You are free to use any C++17/14 feature, and open source library from this [list]. The solution should be limited to one source file and must include the command to compile (no make/ninja/etc files) in a comment. 
 
+To submit your solution send us an [mailto](email:dlavila@uc.cl) with a link to a place where we can find your code (we recommend using something like [Wandbox], [Coliru] or doing a pull request direclty to the challenge repo). Anyone can participate but for strategic reasons winners will be selected among MeetingCpp attenders.
+
+To encourage discussion and learning all the solutions are going to be made public after announcing the winner(s). 
+
+[MeetingCpp]: https://www.meetingcpp.com
 [Wandbox]: https://wandbox.org
 [Coliru]: http://coliru.stacked-crooked.com
 [tree]: https://linux.die.net/man/1/tree
