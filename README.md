@@ -2,7 +2,7 @@
 Modern C++ Challenge:
 ======
 
-The purpose of this challenge is to write a small application to demonstrate the usage of Modern C++ features and libraries. What better to learn some of the concepts presented at [Meeting++] than solving a real problem? 
+The purpose of this challenge is to write a small application to demonstrate the usage of Modern C++ features and libraries. What better to learn some of the concepts presented at [MeetingC++] than solving a real problem? 
 
 The challenge is to write a simple and portable version of the Linux command line tool [tree]:
 
